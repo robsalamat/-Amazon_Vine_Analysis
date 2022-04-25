@@ -11,6 +11,8 @@ Since your work with Jennifer on the SellBy project was so successful, you’ve 
 
 ## II. Results
 
+### A. Chosen Data Set
+The data set chosen was Video_Games.
 
 
 
