@@ -17,10 +17,9 @@ The data set chosen was ***Video_Games***.
 
 Since bias would easily be seen if there are undeserved 5-Star reviews coming from the paid reviews from Vine, the percentage of 5 star reviews have been presented above.
 
-- The 
-
-
-
+- The total percentage of 5-Star reviews is at 38.73%. 
+- The 5-star percentage of the paid reviews(38.21%) is actually lower than the average.
+- The 5-star percentage of the unpaid reviews(38.90%) is actually higher than the average.
 
 
 ## III. Summary
