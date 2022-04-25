@@ -23,3 +23,7 @@ Since bias would easily be seen if there are undeserved 5-Star reviews coming fr
 
 
 ## III. Summary
+
+In conclusion, because the total, unpaid and paid 5-Star percentages are very near each other; and the 5-star percentage of the paid reviews are actually lower than the 5 star percentage of the unpaid reviews. The results show that there is no bias from the Vine reviews.
+
+To really have a solid conclusion, it is recommended that this study should be done on all 50 data sets.
