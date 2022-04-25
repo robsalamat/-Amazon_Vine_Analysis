@@ -11,12 +11,15 @@ Since your work with Jennifer on the SellBy project was so successful, you’ve 
 
 ## II. Results
 
-### A. Chosen Data Set
-The data set chosen was Video_Games.
-
-### B. Analysis
+The data set chosen was ***Video_Games***.
 
 ![](Analysis.PNG)
+
+Since bias would easily be seen if there are undeserved 5-Star reviews coming from the paid reviews from Vine, the percentage of 5 star reviews have been presented above.
+
+- The 
+
+
 
 
 
